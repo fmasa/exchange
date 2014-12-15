@@ -1,0 +1,11 @@
+{
+    "name": "fmasa/money",
+    "description": "Implmentation of  rate-exchange API",
+    "authors": [
+        {
+            "name": "Frantisek Masa",
+            "email": "frantisekmasa1@gmail.com"
+        }
+    ],
+    "require": {}
+}
