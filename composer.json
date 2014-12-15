@@ -7,6 +7,9 @@
             "email": "frantisekmasa1@gmail.com"
         }
     ],
+    "autoload": {
+	"psr-4": {"Exchange\\": "src/Exchange"}
+    },
     "require": {
 	"money/money": "*"
     }
