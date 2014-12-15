@@ -1,11 +1,13 @@
 {
-    "name": "fmasa/money",
-    "description": "Implmentation of  rate-exchange API",
+    "name": "fmasa/exchange",
+    "description": "Implementation of rate-exchange API for Money/Money.",
     "authors": [
         {
             "name": "Frantisek Masa",
             "email": "frantisekmasa1@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+	"money/money": "*"
+    }
 }
